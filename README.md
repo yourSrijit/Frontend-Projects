@@ -11,7 +11,9 @@
 ![Screenshot 2024-02-20 123637](https://github.com/yourSrijit/Full-Stack-Projects-2024/assets/91645620/e77f614b-7728-43ac-9970-b0a452a32100)
 - 5.Premium Design 1
 ![Screenshot 2024-02-20 130237](https://github.com/yourSrijit/Full-Stack-Projects-2024/assets/91645620/0d66e5b7-89bb-4056-91c2-e6233035b9f4)
-
+- 6. Premium Design 2
+  ![Screenshot 2024-02-20 195102](https://github.com/yourSrijit/Frontend-Projects-2024/assets/91645620/3133af13-6f50-442e-bf7d-9adc9a812a3d)
+   
 
 
 
