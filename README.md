@@ -1,5 +1,5 @@
 # Basic Design Projects(HTML CSS JS REACT)
-
+ 
 ## 1. Basic HTML CSS JS Design Projects 👇👇
  - 1. <a href="https://spotify-fronted-clone.netlify.app/" target="_blank">Spotify Frontend Clone💀(HTML,CSS,JS)</a>
 ![Screenshot 2024-02-20 123520](https://github.com/yourSrijit/Full-Stack-Projects-2024/assets/91645620/b6a2d9ed-8dec-456f-9e71-540dfd3ae32d)
